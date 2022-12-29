@@ -1,3 +1,3 @@
 # odin-recipes
 basic recipe site.  
-First odin project
+[Live Demo](https://spookyflame10.github.io/odin-recipes/) :point_left:
